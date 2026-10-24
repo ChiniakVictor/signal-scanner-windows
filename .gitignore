@@ -1,0 +1,18 @@
+# Build outputs
+build/
+dist/
+*.exe
+*.msi
+*.zip
+*.spec
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Local / secrets
+.env
+*.log
+*.pfx
+*.p12
+.DS_Store

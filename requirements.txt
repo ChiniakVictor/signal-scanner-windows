@@ -1,0 +1,11 @@
+PySide6-Essentials==6.8.*
+bleak>=0.22
+winrt-runtime
+winrt-Windows.Foundation
+winrt-Windows.Foundation.Collections
+winrt-Windows.Devices.Bluetooth
+winrt-Windows.Devices.Bluetooth.Advertisement
+winrt-Windows.Devices.Enumeration
+winrt-Windows.Devices.Radios
+winrt-Windows.Networking.Proximity
+pyinstaller>=6.10
